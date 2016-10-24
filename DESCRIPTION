@@ -1,0 +1,10 @@
+Package: Schmidt525
+Type: Package
+Title: Functions and Shiny Apps for STA 525: Statistics for Bioinformatics
+Version: 0.1.0
+Author: person("Daniel", "Gaile",
+    email = "dpgaile@gmail.com",
+    role=c("aut","cre"))Who wrote it
+Description: This library houses a collection of functions and Shiny apps which have been designed to teach some basic statistical concepts which are relevant to Bioinformatics.
+License: GPL-3.0
+LazyData: TRUE
