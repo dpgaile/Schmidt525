@@ -36,6 +36,8 @@
 #'              of unique variable names in DesignDF
 #'               }
 #'
+#' @importFrom MASS mvrnorm
+#'
 #' @export
 SimBCarray=function(SimBCdes){
 
